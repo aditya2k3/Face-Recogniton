@@ -1,0 +1,15 @@
+**HOW TO RUN THE FILE** 
+
+1.  Clone the repository:
+
+ git clone https://github.com/yourusername/Face-Recognition-FER.git
+ cd Face-Recognition-FER
+
+2. Install Dependencies
+
+ pip install -r requirements.txt
+
+3.  Run the Jupyter Notebook
+
+ Open Your_filename.ipynb and execute all cells.
+
